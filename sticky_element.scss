@@ -1,0 +1,9 @@
+//StickyElement
+.stickyElement{
+  &.fake-sticky{
+    margin: 0 !important;
+    position: fixed !important;
+    z-index: 1000 !important;
+    top: 0 !important;
+  }
+}
